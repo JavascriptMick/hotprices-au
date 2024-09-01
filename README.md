@@ -1,5 +1,5 @@
 # Hot Prices AU
-
+Nemo was here
 A terrible fork of the excellent open source project [heissepreise](https://github.com/badlogic/heissepreise). It fetches data from the duopoly of Australian grocery chains on a daily basis and makes them available through a web interface.
 
 This project is very basic and partly contains a copy of the original code (for the frontend) and partly a re-implementation in Python (for the backend). The aim is to provie a similar service to Australians wanting to compare grocery prices and track the history of those prices. There no website yet.
